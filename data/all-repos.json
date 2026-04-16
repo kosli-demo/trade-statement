@@ -265,7 +265,7 @@
   },
   {
     "repo_name": "trade-statement",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "digital-audit",
