@@ -141,7 +141,7 @@
   },
   {
     "repo_name": "acquiring-merchant",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "corporate-bond",
@@ -153,11 +153,11 @@
   },
   {
     "repo_name": "payment-framework",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "trading-account",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "global-custodian",
@@ -177,7 +177,7 @@
   },
   {
     "repo_name": "trading-datamart",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "risk-datamart",
@@ -225,7 +225,7 @@
   },
   {
     "repo_name": "overnight-swap",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "legal-contract",
@@ -233,7 +233,7 @@
   },
   {
     "repo_name": "margin-calculator",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "risk-notification",
@@ -249,7 +249,7 @@
   },
   {
     "repo_name": "registered-merchant",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "net-settlement",
@@ -261,7 +261,7 @@
   },
   {
     "repo_name": "realtime-stream",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "trade-statement",
@@ -309,11 +309,11 @@
   },
   {
     "repo_name": "credit-risk",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "optionadjusted-spread",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "data-proxy",
@@ -325,7 +325,7 @@
   },
   {
     "repo_name": "smart-router",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "retail-broker",
@@ -341,7 +341,7 @@
   },
   {
     "repo_name": "long-position",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "benchmark-rate",
@@ -357,7 +357,7 @@
   },
   {
     "repo_name": "gross-settlement",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "preferred-customer",
@@ -369,7 +369,7 @@
   },
   {
     "repo_name": "master-contract",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "zerocoupon-spread",
@@ -393,7 +393,7 @@
   },
   {
     "repo_name": "data-gateway",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "exchange-connector",
